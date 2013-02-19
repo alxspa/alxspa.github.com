@@ -1,2 +1,68 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+hgroup {
+  background: transparent $logo-small;
+  background-size: 64px 64px;
+  background-attachment:fixed;
+  background-position: 610px 36px;
+}
+
+#main {
+  padding-top: 0px;
+}
+
+.background {
+  top: 0px;
+  width: 100%;
+  height: 500px;
+  background: transparent $logo-bg;
+  -khtml-opacity: .10;
+  -moz-opacity: .10;
+  -ms-filter: "alpha(opacity=10)";
+  filter: alpha(opacity=10);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.1);
+  opacity: .10;
+  margin-top: -127px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+
+#content {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+#content > div > article {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  overflow: hidden;
+  padding-left: 0px;
+  margin-top: 0px;
+}
+
+.contact {
+
+}
+
+.contact li span {
+  font-weight: bold;
+  color: #444;
+}
+
+.contact > ul {
+  list-style-type: none;
+}
+
+// Disactivate navigation borders
+body > nav li + li {
+  border-left: 0px;
+}
+
+body > nav li + li a {
+  border-left: 0px;
+}
