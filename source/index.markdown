@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: false
-footer: true
+footer: false
 ---
 
 <br/>
