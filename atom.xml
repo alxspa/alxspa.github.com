@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Alexis Papadopoulos]]></title>
-  <link href="http://alxspa.github.com/atom.xml" rel="self"/>
-  <link href="http://alxspa.github.com/"/>
-  <updated>2013-02-21T02:16:29+01:00</updated>
-  <id>http://alxspa.github.com/</id>
+  <link href="http://alexispapadopoulos.com/atom.xml" rel="self"/>
+  <link href="http://alexispapadopoulos.com/"/>
+  <updated>2013-02-21T02:55:59+01:00</updated>
+  <id>http://alexispapadopoulos.com/</id>
   <author>
     <name><![CDATA[Alexis Papadopoulos]]></name>
     <email><![CDATA[alexis@alexispapadopoulos.com]]></email>

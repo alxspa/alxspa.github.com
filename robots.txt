@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://alxspa.github.com/sitemap.xml 
+Sitemap: http://alexispapadopoulos.com/sitemap.xml 
